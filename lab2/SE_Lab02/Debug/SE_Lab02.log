@@ -1,0 +1,8 @@
+﻿  SE_Lab02.cpp
+C:\Users\user\Desktop\КПО\lab2\SE_Lab02\SE_Lab02.cpp(26,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\Desktop\КПО\lab2\SE_Lab02\SE_Lab02.cpp(55,30): warning C4309: инициализация: усечение константного значения
+C:\Users\user\Desktop\КПО\lab2\SE_Lab02\SE_Lab02.cpp(61,18): warning C4305: инициализация: усечение из "__int64" в "long"
+C:\Users\user\Desktop\КПО\lab2\SE_Lab02\SE_Lab02.cpp(61,20): warning C4309: инициализация: усечение константного значения
+C:\Users\user\Desktop\КПО\lab2\SE_Lab02\SE_Lab02.cpp(67): warning C4723: возможное деление на 0
+C:\Users\user\Desktop\КПО\lab2\SE_Lab02\SE_Lab02.cpp(68): warning C4723: возможное деление на 0
+  SE_Lab02.vcxproj -> C:\Users\user\Desktop\КПО\lab2\SE_Lab02\Debug\SE_Lab02.exe
