@@ -1,0 +1,6 @@
+﻿  Dictionary.cpp
+C:\Users\user\Desktop\КПО\lab5\lab5\Dictionary.cpp(11,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\Desktop\КПО\lab5\lab5\Dictionary.cpp(31,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\Desktop\КПО\lab5\lab5\Dictionary.cpp(60,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\Desktop\КПО\lab5\lab5\Dictionary.cpp(108,31): warning C4018: <: несоответствие типов со знаком и без знака
+  lab5.vcxproj -> C:\Users\user\Desktop\КПО\lab5\Debug\lab5.exe

@@ -1,0 +1,59 @@
+﻿  Dictionary.cpp
+C:\Users\user\Desktop\КПО\lab5\SE_LAB05\Dictionary.cpp(9,41): error C2664: "Dictionary::Instance Dictionary::Create(char [],int)": невозможно преобразовать аргумент 1 из "const char [14]" в "char []"
+  C:\Users\user\Desktop\КПО\lab5\SE_LAB05\Dictionary.cpp(9,48):
+  При преобразовании из строкового литерала теряется квалификатор (см. /Zc:strictStrings)
+  C:\Users\user\Desktop\КПО\lab5\SE_LAB05\Dictionary.h(30,11):
+   см. объявление "Dictionary::Create"
+  C:\Users\user\Desktop\КПО\lab5\SE_LAB05\Dictionary.cpp(9,41):
+  при попытке сопоставить список аргументов "(const char [14], int)"
+  
+C:\Users\user\Desktop\КПО\lab5\SE_LAB05\Dictionary.cpp(10,31): error C2440: инициализация: невозможно преобразовать "const char [8]" в "char"
+  C:\Users\user\Desktop\КПО\lab5\SE_LAB05\Dictionary.cpp(10,31):
+  Не существует контекста, в котором такое преобразование возможно
+  
+C:\Users\user\Desktop\КПО\lab5\SE_LAB05\Dictionary.cpp(10,61): error C2440: инициализация: невозможно преобразовать "const char [8]" в "char"
+  C:\Users\user\Desktop\КПО\lab5\SE_LAB05\Dictionary.cpp(10,61):
+  Не существует контекста, в котором такое преобразование возможно
+  
+C:\Users\user\Desktop\КПО\lab5\SE_LAB05\Dictionary.cpp(11,14): error C2440: инициализация: невозможно преобразовать "const char [7]" в "char"
+  C:\Users\user\Desktop\КПО\lab5\SE_LAB05\Dictionary.cpp(11,14):
+  Не существует контекста, в котором такое преобразование возможно
+  
+C:\Users\user\Desktop\КПО\lab5\SE_LAB05\Dictionary.cpp(11,42): error C2440: инициализация: невозможно преобразовать "const char [10]" в "char"
+  C:\Users\user\Desktop\КПО\lab5\SE_LAB05\Dictionary.cpp(11,42):
+  Не существует контекста, в котором такое преобразование возможно
+  
+C:\Users\user\Desktop\КПО\lab5\SE_LAB05\Dictionary.cpp(11,76): error C2440: инициализация: невозможно преобразовать "const char [6]" в "char"
+  C:\Users\user\Desktop\КПО\lab5\SE_LAB05\Dictionary.cpp(11,76):
+  Не существует контекста, в котором такое преобразование возможно
+  
+C:\Users\user\Desktop\КПО\lab5\SE_LAB05\Dictionary.cpp(18,38): error C2440: инициализация: невозможно преобразовать "const char [6]" в "char"
+  C:\Users\user\Desktop\КПО\lab5\SE_LAB05\Dictionary.cpp(18,38):
+  Не существует контекста, в котором такое преобразование возможно
+  
+C:\Users\user\Desktop\КПО\lab5\SE_LAB05\Dictionary.cpp(21,41): error C2664: "Dictionary::Instance Dictionary::Create(char [],int)": невозможно преобразовать аргумент 1 из "const char [9]" в "char []"
+  C:\Users\user\Desktop\КПО\lab5\SE_LAB05\Dictionary.cpp(21,48):
+  При преобразовании из строкового литерала теряется квалификатор (см. /Zc:strictStrings)
+  C:\Users\user\Desktop\КПО\lab5\SE_LAB05\Dictionary.h(30,11):
+   см. объявление "Dictionary::Create"
+  C:\Users\user\Desktop\КПО\lab5\SE_LAB05\Dictionary.cpp(21,41):
+  при попытке сопоставить список аргументов "(const char [9], int)"
+  
+C:\Users\user\Desktop\КПО\lab5\SE_LAB05\Dictionary.cpp(22,31): error C2440: инициализация: невозможно преобразовать "const char [7]" в "char"
+  C:\Users\user\Desktop\КПО\lab5\SE_LAB05\Dictionary.cpp(22,31):
+  Не существует контекста, в котором такое преобразование возможно
+  
+C:\Users\user\Desktop\КПО\lab5\SE_LAB05\Dictionary.cpp(22,59): error C2440: инициализация: невозможно преобразовать "const char [7]" в "char"
+  C:\Users\user\Desktop\КПО\lab5\SE_LAB05\Dictionary.cpp(22,59):
+  Не существует контекста, в котором такое преобразование возможно
+  
+C:\Users\user\Desktop\КПО\lab5\SE_LAB05\Dictionary.cpp(23,14): error C2440: инициализация: невозможно преобразовать "const char [8]" в "char"
+  C:\Users\user\Desktop\КПО\lab5\SE_LAB05\Dictionary.cpp(23,14):
+  Не существует контекста, в котором такое преобразование возможно
+  
+C:\Users\user\Desktop\КПО\lab5\SE_LAB05\Dictionary.cpp(27,38): error C2440: инициализация: невозможно преобразовать "const char [9]" в "char"
+  C:\Users\user\Desktop\КПО\lab5\SE_LAB05\Dictionary.cpp(27,38):
+  Не существует контекста, в котором такое преобразование возможно
+  
+  main.cpp
+  Создание кода...
